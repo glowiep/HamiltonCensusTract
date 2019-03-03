@@ -4,7 +4,7 @@ pop - Population and dwelling counts / Population, 2016
 land_kmsq - Population and dwelling counts / Land area in square kilometres
 occup_dwel_struc- Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data
 single_det - Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data / Single-detached house
-apart_fievormore - Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data / Apartment in a building that has five or more storeys
+apart_fiveormore - Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data / Apartment in a building that has five or more storeys
 other_att - Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data / Other attached dwelling
 nbedrooms - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data
 no_bed - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data / No bedrooms
