@@ -1,18 +1,18 @@
 2016 Census Profiles Files / Profile of Census Tracts
 CTUID - GEO UID
-Pop - Population and dwelling counts / Population, 2016
-Land_kmsq - Population and dwelling counts / Land area in square kilometres
-Occup_dwel_struc- Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data
-Single_det - Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data / Single-detached house
-Apart_fievormore - Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data / Apartment in a building that has five or more storeys
+pop - Population and dwelling counts / Population, 2016
+land_kmsq - Population and dwelling counts / Land area in square kilometres
+occup_dwel_struc- Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data
+single_det - Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data / Single-detached house
+apart_fievormore - Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data / Apartment in a building that has five or more storeys
 other_att - Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data / Other attached dwelling
-Bedrooms - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data
+nbedrooms - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data
 no_bed - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data / No bedrooms
 one_bed - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 1 bedroom
 two_bed - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 2 bedrooms
 three_bed - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 3 bedrooms
-Four_bed_more - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 4 or more bedrooms
-Education - Education - Total Sex / Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data
+four_bed_more - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 4 or more bedrooms
+edu_total - Education - Total Sex / Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data
 no_edu - Education - Total Sex / Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data / No certificate, diploma or degree
 edu_dip - Education - Total Sex / Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data / Secondary (high) school diploma or equivalency certificate
 edu_postsec - Education - Total Sex / Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data / Postsecondary certificate, diploma or degree
@@ -23,26 +23,26 @@ jour_fiftotwnine - Journey to Work - Total Sex / Total - Commuting duration for 
 journ_thirtytofourfour - Journey to Work - Total Sex / Total - Commuting duration for the employed labour force aged 15 years and over in private households with a usual place of work or no fixed workplace address - 25% sample data / 30 to 44 minutes
 journ_fourfivetofifnine - Journey to Work - Total Sex / Total - Commuting duration for the employed labour force aged 15 years and over in private households with a usual place of work or no fixed workplace address - 25% sample data / 45 to 59 minutes
 journ_overanhour - Journey to Work - Total Sex / Total - Commuting duration for the employed labour force aged 15 years and over in private households with a usual place of work or no fixed workplace address - 25% sample data / 60 minutes and over
-Income - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data
-Income_after_tax - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of after-tax income recipients aged 15 years and over in private households - 100% data
-Income_med_aftTax - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of after-tax income recipients aged 15 years and over in private households - 100% data / Median after-tax income in 2015 among recipients ($)
-House_size - Dwelling characteristics / Total - Private households by household size - 100% data
+income_total - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data
+income_after_tax - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of after-tax income recipients aged 15 years and over in private households - 100% data
+income_med_after_tax - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of after-tax income recipients aged 15 years and over in private households - 100% data / Median after-tax income in 2015 among recipients ($)
+house_size - Dwelling characteristics / Total - Private households by household size - 100% data
 one_per - Dwelling characteristics / Total - Private households by household size - 100% data / 1 person
 two_per - Dwelling characteristics / Total - Private households by household size - 100% data / 2 persons
 three_per - Dwelling characteristics / Total - Private households by household size - 100% data / 3 persons
 four_per - Dwelling characteristics / Total - Private households by household size - 100% data / 4 persons
 five_or_more_per - Dwelling characteristics / Total - Private households by household size - 100% data / 5 or more persons
-Num_per - Dwelling characteristics / Number of persons in private households
-Labour - Labour - Total Sex / Total - Population aged 15 years and over by Labour force status - 25% sample data
-Lab_inlab - Labour - Total Sex / Total - Population aged 15 years and over by Labour force status - 25% sample data / In the labour force
-Lab_emp - Labour - Total Sex / Total - Population aged 15 years and over by Labour force status - 25% sample data / In the labour force / Employed
-Lab_unemp - Labour - Total Sex / Total - Population aged 15 years and over by Labour force status - 25% sample data / In the labour force / Unemployed
-Lab_notinlab - Labour - Total Sex / Total - Population aged 15 years and over by Labour force status - 25% sample data / Not in the labour force
-Emp_rate - Labour - Total Sex / Employment rate
-Unemp_rate - Labour - Total Sex / Unemployment rate
-Work_status - Labour - Total Sex / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data
-Work_home - Labour - Total Sex / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data / Worked at home
-Work_outCA - Labour - Total Sex / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data / Worked outside Canada
-Work_nofixadd - Labour - Total Sex / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data / No fixed workplace address
-Work_usual - Labour - Total Sex / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data / Worked at usual place
+num_per - Dwelling characteristics / Number of persons in private households
+labour_total - Labour - Total Sex / Total - Population aged 15 years and over by Labour force status - 25% sample data
+lab_inlab - Labour - Total Sex / Total - Population aged 15 years and over by Labour force status - 25% sample data / In the labour force
+lab_emp - Labour - Total Sex / Total - Population aged 15 years and over by Labour force status - 25% sample data / In the labour force / Employed
+lab_unemp - Labour - Total Sex / Total - Population aged 15 years and over by Labour force status - 25% sample data / In the labour force / Unemployed
+lab_not_inlab - Labour - Total Sex / Total - Population aged 15 years and over by Labour force status - 25% sample data / Not in the labour force
+emp_rate - Labour - Total Sex / Employment rate
+unemp_rate - Labour - Total Sex / Unemployment rate
+work_status - Labour - Total Sex / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data
+work_home - Labour - Total Sex / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data / Worked at home
+work_outCA - Labour - Total Sex / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data / Worked outside Canada
+work_nofixadd - Labour - Total Sex / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data / No fixed workplace address
+work_usual - Labour - Total Sex / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data / Worked at usual place
 
