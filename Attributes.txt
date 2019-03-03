@@ -1,5 +1,5 @@
 2016 Census Profiles Files / Profile of Census Tracts
-GEO_UID - GEO UID
+CTUID - GEO UID
 Pop - Population and dwelling counts / Population, 2016
 Land_kmsq - Population and dwelling counts / Land area in square kilometres
 Occup_dwel_struc- Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data
