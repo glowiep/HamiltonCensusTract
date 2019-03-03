@@ -26,7 +26,7 @@ journ_overanhour - Journey to Work - Total Sex / Total - Commuting duration for 
 income_total - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data
 income_after_tax - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of after-tax income recipients aged 15 years and over in private households - 100% data
 income_med_after_tax - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of after-tax income recipients aged 15 years and over in private households - 100% data / Median after-tax income in 2015 among recipients ($)
-house_size - Dwelling characteristics / Total - Private households by household size - 100% data
+household_size - Dwelling characteristics / Total - Private households by household size - 100% data
 one_per - Dwelling characteristics / Total - Private households by household size - 100% data / 1 person
 two_per - Dwelling characteristics / Total - Private households by household size - 100% data / 2 persons
 three_per - Dwelling characteristics / Total - Private households by household size - 100% data / 3 persons
